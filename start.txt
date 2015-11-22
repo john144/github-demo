@@ -1,1 +1,3 @@
 git quick start demo
+
+Change a line and do not stage it. This should be a conflict.
